@@ -61,8 +61,10 @@ button{
     color: #999999;
 }
 #google_login img{
-    width: 12px;
-    height: 15px;
+    width: 15px;
+    height: 18px;
+    position: relative;
+    top :3px;
 }
 #google_login:hover{
     cursor: pointer;
@@ -74,6 +76,8 @@ button{
 .apple_login img{
     width: 20px;
     height: 20px;
+    position: relative;
+    top:3px;
 }
 .apple_login{
     border: 1px solid #a19f9f;
